@@ -324,3 +324,124 @@
 10/05/2026 17:16:10 - ? Deployed to GitHub successfully
 10/05/2026 17:16:10 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
 10/05/2026 17:16:10 - Step 4: Uploading log file...
+10/05/2026 17:16:12 - ? Log file uploaded to GitHub
+10/05/2026 17:16:12 - === PROCESS COMPLETED SUCCESSFULLY ===
+10/05/2026 17:32:01 - === AUTO DASHBOARD GENERATION STARTED ===
+10/05/2026 17:32:01 - Timestamp: 10/05/2026 17:32:01
+10/05/2026 17:32:01 - Step 1: Generating last 3 days of dashboards...
+10/05/2026 17:32:01 - Regenerating last 3 days of dashboards...
+10/05/2026 17:32:01 - Generated: dashboard_20260508.html
+10/05/2026 17:32:01 - Generated: dashboard_20260509.html
+10/05/2026 17:32:02 - Generated: dashboard_20260510.html
+10/05/2026 17:32:02 - ? Regenerated 3 days of dashboards
+10/05/2026 17:32:02 - ? Dashboards generated successfully (includes yesterday for data updates)
+10/05/2026 17:32:02 - Step 1b: Regenerating index.html with date list...
+10/05/2026 17:32:02 - GenerateMainIndex: Searching for files in: D:\WINSOFT\CLINIC_VISTA_STOCK_EYE\API_DATA\dashboard_*.html
+10/05/2026 17:32:02 - GenerateMainIndex: Found 32 files
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260409.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 09/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260410.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 10/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260411.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 11/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260412.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 12/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260413.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 13/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260414.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 14/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260415.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 15/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260416.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 16/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260417.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 17/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260418.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 18/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260419.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 19/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260420.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 20/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260421.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 21/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260422.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 22/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260423.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 23/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260424.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 24/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260425.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 25/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260426.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 26/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260427.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 27/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260428.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 28/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260429.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 29/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260430.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 30/04/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260501.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 01/05/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260502.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 02/05/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260503.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 03/05/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260504.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 04/05/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260505.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 05/05/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260506.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 06/05/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260507.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 07/05/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260508.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 08/05/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260509.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 09/05/2026
+10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260510.HTML
+10/05/2026 17:32:02 - GenerateMainIndex: Added date: 10/05/2026
+10/05/2026 17:32:02 - Generated index.html with 32 dates (DESCENDING order)
+10/05/2026 17:32:02 - ? index.html regenerated with latest dates (DESCENDING order)
+10/05/2026 17:32:02 - Step 2: Cleaning up old dashboard files...
+10/05/2026 17:32:02 - ? Cleaned up 0 old files
+10/05/2026 17:32:02 - Step 3: Deploying to GitHub...
+10/05/2026 17:32:02 - Found 33 files to upload
+10/05/2026 17:32:03 - Uploaded: dashboard_20260409.html
+10/05/2026 17:32:04 - Uploaded: dashboard_20260410.html
+10/05/2026 17:32:05 - Uploaded: dashboard_20260411.html
+10/05/2026 17:32:07 - Uploaded: dashboard_20260412.html
+10/05/2026 17:32:08 - Uploaded: dashboard_20260413.html
+10/05/2026 17:32:09 - Uploaded: dashboard_20260414.html
+10/05/2026 17:32:10 - Uploaded: dashboard_20260415.html
+10/05/2026 17:32:11 - Uploaded: dashboard_20260416.html
+10/05/2026 17:32:12 - Uploaded: dashboard_20260417.html
+10/05/2026 17:32:13 - Uploaded: dashboard_20260418.html
+10/05/2026 17:32:15 - Uploaded: dashboard_20260419.html
+10/05/2026 17:32:16 - Uploaded: dashboard_20260420.html
+10/05/2026 17:32:17 - Uploaded: dashboard_20260421.html
+10/05/2026 17:32:19 - Uploaded: dashboard_20260422.html
+10/05/2026 17:32:20 - Uploaded: dashboard_20260423.html
+10/05/2026 17:32:21 - Uploaded: dashboard_20260424.html
+10/05/2026 17:32:23 - Uploaded: dashboard_20260425.html
+10/05/2026 17:32:24 - Uploaded: dashboard_20260426.html
+10/05/2026 17:32:26 - Uploaded: dashboard_20260427.html
+10/05/2026 17:32:27 - Uploaded: dashboard_20260428.html
+10/05/2026 17:32:28 - Uploaded: dashboard_20260429.html
+10/05/2026 17:32:29 - Uploaded: dashboard_20260430.html
+10/05/2026 17:32:30 - Uploaded: dashboard_20260501.html
+10/05/2026 17:32:31 - Uploaded: dashboard_20260502.html
+10/05/2026 17:32:32 - Uploaded: dashboard_20260503.html
+10/05/2026 17:32:33 - Uploaded: dashboard_20260504.html
+10/05/2026 17:32:35 - Uploaded: dashboard_20260505.html
+10/05/2026 17:32:36 - Uploaded: dashboard_20260506.html
+10/05/2026 17:32:37 - Uploaded: dashboard_20260507.html
+10/05/2026 17:32:39 - Uploaded: dashboard_20260508.html
+10/05/2026 17:32:40 - Uploaded: dashboard_20260509.html
+10/05/2026 17:32:41 - Uploaded: dashboard_20260510.html
+10/05/2026 17:32:42 - Uploaded: index.html
+10/05/2026 17:32:42 - Upload complete: 33/33 files
+10/05/2026 17:32:42 - ? Deployed to GitHub successfully
+10/05/2026 17:32:42 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
+10/05/2026 17:32:42 - Step 4: Uploading log file...
