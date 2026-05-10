@@ -1,67 +1,97 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Clinic Dashboard - Select Date</title>
+<title>Clinic Management Dashboard</title>
 <meta charset='UTF-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0'>
 <style>
 body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; }
-.header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; text-align: center; }
-.header h1 { margin: 0; font-size: 32px; }
-.subtitle { font-size: 18px; margin-top: 10px; opacity: 0.9; }
-.content { max-width: 800px; margin: 30px auto; padding: 0 20px; }
-.date-list { display: flex; flex-direction: column; gap: 10px; }
-.date-link { display: block; background: white; padding: 15px 20px; border-radius: 10px; text-decoration: none; color: #333; font-size: 16px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.3s; }
-.date-link:hover { background: #667eea; color: white; transform: translateX(5px); }
-.date-link.today { background: #d4edda; border-left: 5px solid #28a745; font-weight: bold; }
-.date-link.today:hover { background: #28a745; color: white; }
-.no-data { text-align: center; padding: 40px; color: #666; font-size: 16px; }
-.footer { background: #333; color: white; text-align: center; padding: 20px; margin-top: 40px; }
+.header { background: #2196F3; color: white; padding: 20px 30px; }
+.header h1 { margin: 0; font-size: 28px; }
+.quick-access { font-size: 14px; margin-top: 5px; opacity: 0.9; }
+.stats-container { padding: 20px; }
+.stats-row { display: flex; gap: 20px; flex-wrap: wrap; }
+.stat-card { background: white; border-radius: 8px; padding: 20px; flex: 1; min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+.stat-card h3 { margin: 0 0 10px 0; color: #333; font-size: 16px; }
+.stat-value { font-size: 36px; font-weight: bold; margin-bottom: 5px; }
+.stat-value.blue { color: #2196F3; }
+.stat-detail { font-size: 12px; color: #666; }
+.activity-detail { font-size: 13px; color: #666; line-height: 1.6; }
+.date-section { background: white; margin: 0 20px 20px 20px; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+.date-section h2 { margin: 0 0 15px 0; color: #2196F3; font-size: 18px; }
+.date-buttons { display: flex; flex-wrap: wrap; gap: 10px; }
+.date-button { background: #4CAF50; color: white; padding: 10px 15px; border-radius: 4px; text-decoration: none; font-size: 14px; transition: background 0.3s; }
+.date-button:hover { background: #45a049; }
 </style>
 </head>
 <body>
 <div class='header'>
-  <h1>?? Clinic Dashboard</h1>
-  <div class='subtitle'>Select a date to view dashboard</div>
+  <h1>Clinic Management Dashboard</h1>
+  <div class='quick-access'>Quick Access:</div>
 </div>
-<div class='content'>
-<div class='date-list'>
-<a href='DASHBOARD_20260510.HTML' class='date-link today'>?? 10/05/2026 (Sunday) - TODAY</a>
-<a href='DASHBOARD_20260509.HTML' class='date-link'>?? 09/05/2026 (Saturday)</a>
-<a href='DASHBOARD_20260508.HTML' class='date-link'>?? 08/05/2026 (Friday)</a>
-<a href='DASHBOARD_20260507.HTML' class='date-link'>?? 07/05/2026 (Thursday)</a>
-<a href='DASHBOARD_20260506.HTML' class='date-link'>?? 06/05/2026 (Wednesday)</a>
-<a href='DASHBOARD_20260505.HTML' class='date-link'>?? 05/05/2026 (Tuesday)</a>
-<a href='DASHBOARD_20260504.HTML' class='date-link'>?? 04/05/2026 (Monday)</a>
-<a href='DASHBOARD_20260503.HTML' class='date-link'>?? 03/05/2026 (Sunday)</a>
-<a href='DASHBOARD_20260502.HTML' class='date-link'>?? 02/05/2026 (Saturday)</a>
-<a href='DASHBOARD_20260501.HTML' class='date-link'>?? 01/05/2026 (Friday)</a>
-<a href='DASHBOARD_20260430.HTML' class='date-link'>?? 30/04/2026 (Thursday)</a>
-<a href='DASHBOARD_20260429.HTML' class='date-link'>?? 29/04/2026 (Wednesday)</a>
-<a href='DASHBOARD_20260428.HTML' class='date-link'>?? 28/04/2026 (Tuesday)</a>
-<a href='DASHBOARD_20260427.HTML' class='date-link'>?? 27/04/2026 (Monday)</a>
-<a href='DASHBOARD_20260426.HTML' class='date-link'>?? 26/04/2026 (Sunday)</a>
-<a href='DASHBOARD_20260425.HTML' class='date-link'>?? 25/04/2026 (Saturday)</a>
-<a href='DASHBOARD_20260424.HTML' class='date-link'>?? 24/04/2026 (Friday)</a>
-<a href='DASHBOARD_20260423.HTML' class='date-link'>?? 23/04/2026 (Thursday)</a>
-<a href='DASHBOARD_20260422.HTML' class='date-link'>?? 22/04/2026 (Wednesday)</a>
-<a href='DASHBOARD_20260421.HTML' class='date-link'>?? 21/04/2026 (Tuesday)</a>
-<a href='DASHBOARD_20260420.HTML' class='date-link'>?? 20/04/2026 (Monday)</a>
-<a href='DASHBOARD_20260419.HTML' class='date-link'>?? 19/04/2026 (Sunday)</a>
-<a href='DASHBOARD_20260418.HTML' class='date-link'>?? 18/04/2026 (Saturday)</a>
-<a href='DASHBOARD_20260417.HTML' class='date-link'>?? 17/04/2026 (Friday)</a>
-<a href='DASHBOARD_20260416.HTML' class='date-link'>?? 16/04/2026 (Thursday)</a>
-<a href='DASHBOARD_20260415.HTML' class='date-link'>?? 15/04/2026 (Wednesday)</a>
-<a href='DASHBOARD_20260414.HTML' class='date-link'>?? 14/04/2026 (Tuesday)</a>
-<a href='DASHBOARD_20260413.HTML' class='date-link'>?? 13/04/2026 (Monday)</a>
-<a href='DASHBOARD_20260412.HTML' class='date-link'>?? 12/04/2026 (Sunday)</a>
-<a href='DASHBOARD_20260411.HTML' class='date-link'>?? 11/04/2026 (Saturday)</a>
-<a href='DASHBOARD_20260410.HTML' class='date-link'>?? 10/04/2026 (Friday)</a>
-<a href='DASHBOARD_20260409.HTML' class='date-link'>?? 09/04/2026 (Thursday)</a>
+<div class='stats-container'>
+  <div class='stats-row'>
+    <div class='stat-card'>
+      <h3>Total Patients</h3>
+      <div class='stat-value blue'>-</div>
+      <div class='stat-detail'>New Today: -</div>
+    </div>
+    <div class='stat-card'>
+      <h3>Consultations</h3>
+      <div class='stat-value blue'>-</div>
+      <div class='stat-detail'>Today: -</div>
+    </div>
+    <div class='stat-card'>
+      <h3>Revenue</h3>
+      <div class='stat-value blue'>-</div>
+      <div class='stat-detail'>Today: -</div>
+    </div>
+    <div class='stat-card'>
+      <h3>Today's Activity</h3>
+      <div class='activity-detail'>
+        Appointments: -<br>
+        Pending: -<br>
+        Last Update: 10/05/2026 18:51:46
+      </div>
+    </div>
+  </div>
 </div>
-</div>
-<div class='footer'>
-  <p>Generated: 10/05/2026 17:32:02 | 32 dashboards available</p>
+<div class='date-section'>
+  <h2>Select Date to View Detailed Dashboard</h2>
+  <div class='date-buttons'>
+    <a href='dashboard_20260510.html' class='date-button'>10/05/2026</a>
+    <a href='dashboard_20260509.html' class='date-button'>09/05/2026</a>
+    <a href='dashboard_20260508.html' class='date-button'>08/05/2026</a>
+    <a href='dashboard_20260507.html' class='date-button'>07/05/2026</a>
+    <a href='dashboard_20260506.html' class='date-button'>06/05/2026</a>
+    <a href='dashboard_20260505.html' class='date-button'>05/05/2026</a>
+    <a href='dashboard_20260504.html' class='date-button'>04/05/2026</a>
+    <a href='dashboard_20260503.html' class='date-button'>03/05/2026</a>
+    <a href='dashboard_20260502.html' class='date-button'>02/05/2026</a>
+    <a href='dashboard_20260501.html' class='date-button'>01/05/2026</a>
+    <a href='dashboard_20260430.html' class='date-button'>30/04/2026</a>
+    <a href='dashboard_20260429.html' class='date-button'>29/04/2026</a>
+    <a href='dashboard_20260428.html' class='date-button'>28/04/2026</a>
+    <a href='dashboard_20260427.html' class='date-button'>27/04/2026</a>
+    <a href='dashboard_20260426.html' class='date-button'>26/04/2026</a>
+    <a href='dashboard_20260425.html' class='date-button'>25/04/2026</a>
+    <a href='dashboard_20260424.html' class='date-button'>24/04/2026</a>
+    <a href='dashboard_20260423.html' class='date-button'>23/04/2026</a>
+    <a href='dashboard_20260422.html' class='date-button'>22/04/2026</a>
+    <a href='dashboard_20260421.html' class='date-button'>21/04/2026</a>
+    <a href='dashboard_20260420.html' class='date-button'>20/04/2026</a>
+    <a href='dashboard_20260419.html' class='date-button'>19/04/2026</a>
+    <a href='dashboard_20260418.html' class='date-button'>18/04/2026</a>
+    <a href='dashboard_20260417.html' class='date-button'>17/04/2026</a>
+    <a href='dashboard_20260416.html' class='date-button'>16/04/2026</a>
+    <a href='dashboard_20260415.html' class='date-button'>15/04/2026</a>
+    <a href='dashboard_20260414.html' class='date-button'>14/04/2026</a>
+    <a href='dashboard_20260413.html' class='date-button'>13/04/2026</a>
+    <a href='dashboard_20260412.html' class='date-button'>12/04/2026</a>
+    <a href='dashboard_20260411.html' class='date-button'>11/04/2026</a>
+    <a href='dashboard_20260410.html' class='date-button'>10/04/2026</a>
+    <a href='dashboard_20260409.html' class='date-button'>09/04/2026</a>
+  </div>
 </div>
 </body>
 </html>
