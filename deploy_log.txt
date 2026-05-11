@@ -1,504 +1,77 @@
-10/05/2026 16:20:19 - === AUTO DASHBOARD GENERATION STARTED ===
-10/05/2026 16:20:19 - Timestamp: 10/05/2026 16:20:19
-10/05/2026 16:20:19 - Step 1: Generating today's dashboard...
-10/05/2026 16:20:19 - Generated dashboard: dashboard_20260510.html
-10/05/2026 16:20:19 - ? Dashboard generated successfully
-10/05/2026 16:20:19 - Step 2: Cleaning up old dashboard files...
-10/05/2026 16:20:19 - ? Cleaned up 0 old files
-10/05/2026 16:20:19 - Step 3: Deploying to GitHub...
-10/05/2026 16:20:19 - Found 33 files to upload
-10/05/2026 16:20:21 - Uploaded: dashboard_20260409.html
-10/05/2026 16:20:22 - Uploaded: dashboard_20260410.html
-10/05/2026 16:20:23 - Uploaded: dashboard_20260411.html
-10/05/2026 16:20:24 - Uploaded: dashboard_20260412.html
-10/05/2026 16:20:25 - Uploaded: dashboard_20260413.html
-10/05/2026 16:20:26 - Uploaded: dashboard_20260414.html
-10/05/2026 16:20:27 - Uploaded: dashboard_20260415.html
-10/05/2026 16:20:28 - Uploaded: dashboard_20260416.html
-10/05/2026 16:20:29 - Uploaded: dashboard_20260417.html
-10/05/2026 16:20:30 - Uploaded: dashboard_20260418.html
-10/05/2026 16:20:31 - Uploaded: dashboard_20260419.html
-10/05/2026 16:20:33 - Uploaded: dashboard_20260420.html
-10/05/2026 16:20:34 - Uploaded: dashboard_20260421.html
-10/05/2026 16:20:35 - Uploaded: dashboard_20260422.html
-10/05/2026 16:20:37 - Uploaded: dashboard_20260423.html
-10/05/2026 16:20:38 - Uploaded: dashboard_20260424.html
-10/05/2026 16:20:39 - Uploaded: dashboard_20260425.html
-10/05/2026 16:20:40 - Uploaded: dashboard_20260426.html
-10/05/2026 16:20:41 - Uploaded: dashboard_20260427.html
-10/05/2026 16:20:42 - Uploaded: dashboard_20260428.html
-10/05/2026 16:20:43 - Uploaded: dashboard_20260429.html
-10/05/2026 16:20:45 - Uploaded: dashboard_20260430.html
-10/05/2026 16:20:46 - Uploaded: dashboard_20260501.html
-10/05/2026 16:20:47 - Uploaded: dashboard_20260502.html
-10/05/2026 16:20:48 - Uploaded: dashboard_20260503.html
-10/05/2026 16:20:49 - Uploaded: dashboard_20260504.html
-10/05/2026 16:20:51 - Uploaded: dashboard_20260505.html
-10/05/2026 16:20:52 - Uploaded: dashboard_20260506.html
-10/05/2026 16:20:53 - Uploaded: dashboard_20260507.html
-10/05/2026 16:20:54 - Uploaded: dashboard_20260508.html
-10/05/2026 16:20:55 - Uploaded: dashboard_20260509.html
-10/05/2026 16:20:56 - Uploaded: dashboard_20260510.html
-10/05/2026 16:20:58 - Uploaded: index.html
-10/05/2026 16:20:58 - Upload complete: 33/33 files
-10/05/2026 16:20:58 - ? Deployed to GitHub successfully
-10/05/2026 16:20:58 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
-10/05/2026 16:20:58 - Step 4: Uploading log file...
-10/05/2026 16:20:59 - ? Log file uploaded to GitHub
-10/05/2026 16:20:59 - === PROCESS COMPLETED SUCCESSFULLY ===
-10/05/2026 16:27:23 - === AUTO DASHBOARD GENERATION STARTED ===
-10/05/2026 16:27:23 - Timestamp: 10/05/2026 16:27:23
-10/05/2026 16:27:23 - Step 1: Generating today's dashboard...
-10/05/2026 16:27:23 - Generated dashboard: dashboard_20260510.html
-10/05/2026 16:27:23 - ? Dashboard generated successfully
-10/05/2026 16:27:23 - Step 2: Cleaning up old dashboard files...
-10/05/2026 16:27:23 - ? Cleaned up 0 old files
-10/05/2026 16:27:23 - Step 3: Deploying to GitHub...
-10/05/2026 16:27:23 - Found 33 files to upload
-10/05/2026 16:27:24 - Uploaded: dashboard_20260409.html
-10/05/2026 16:27:25 - Uploaded: dashboard_20260410.html
-10/05/2026 16:27:26 - Uploaded: dashboard_20260411.html
-10/05/2026 16:27:27 - Uploaded: dashboard_20260412.html
-10/05/2026 16:27:28 - Uploaded: dashboard_20260413.html
-10/05/2026 16:27:30 - Uploaded: dashboard_20260414.html
-10/05/2026 16:27:31 - Uploaded: dashboard_20260415.html
-10/05/2026 16:27:32 - Uploaded: dashboard_20260416.html
-10/05/2026 16:27:34 - Uploaded: dashboard_20260417.html
-10/05/2026 16:27:35 - Uploaded: dashboard_20260418.html
-10/05/2026 16:27:36 - Uploaded: dashboard_20260419.html
-10/05/2026 16:27:37 - Uploaded: dashboard_20260420.html
-10/05/2026 16:27:38 - Uploaded: dashboard_20260421.html
-10/05/2026 16:27:39 - Uploaded: dashboard_20260422.html
-10/05/2026 16:27:41 - Uploaded: dashboard_20260423.html
-10/05/2026 16:27:42 - Uploaded: dashboard_20260424.html
-10/05/2026 16:27:43 - Uploaded: dashboard_20260425.html
-10/05/2026 16:27:44 - Uploaded: dashboard_20260426.html
-10/05/2026 16:27:45 - Uploaded: dashboard_20260427.html
-10/05/2026 16:27:47 - Uploaded: dashboard_20260428.html
-10/05/2026 16:27:48 - Uploaded: dashboard_20260429.html
-10/05/2026 16:27:49 - Uploaded: dashboard_20260430.html
-10/05/2026 16:27:50 - Uploaded: dashboard_20260501.html
-10/05/2026 16:27:51 - Uploaded: dashboard_20260502.html
-10/05/2026 16:27:52 - Uploaded: dashboard_20260503.html
-10/05/2026 16:27:53 - Uploaded: dashboard_20260504.html
-10/05/2026 16:27:54 - Uploaded: dashboard_20260505.html
-10/05/2026 16:27:55 - Uploaded: dashboard_20260506.html
-10/05/2026 16:27:56 - Uploaded: dashboard_20260507.html
-10/05/2026 16:27:57 - Uploaded: dashboard_20260508.html
-10/05/2026 16:27:58 - Uploaded: dashboard_20260509.html
-10/05/2026 16:28:00 - Uploaded: dashboard_20260510.html
-10/05/2026 16:28:02 - Uploaded: index.html
-10/05/2026 16:28:02 - Upload complete: 33/33 files
-10/05/2026 16:28:02 - ? Deployed to GitHub successfully
-10/05/2026 16:28:02 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
-10/05/2026 16:28:02 - Step 4: Uploading log file...
-10/05/2026 16:28:03 - ? Log file uploaded to GitHub
-10/05/2026 16:28:03 - === PROCESS COMPLETED SUCCESSFULLY ===
-10/05/2026 16:53:47 - === AUTO DASHBOARD GENERATION STARTED ===
-10/05/2026 16:53:47 - Timestamp: 10/05/2026 16:53:47
-10/05/2026 16:53:47 - Step 1: Generating last 3 days of dashboards...
-10/05/2026 16:53:47 - Regenerating last 3 days of dashboards...
-10/05/2026 16:53:47 - Generated: dashboard_20260508.html
-10/05/2026 16:53:47 - Generated: dashboard_20260509.html
-10/05/2026 16:53:47 - Generated: dashboard_20260510.html
-10/05/2026 16:53:47 - ? Regenerated 3 days of dashboards
-10/05/2026 16:53:47 - ? Dashboards generated successfully (includes yesterday for data updates)
-10/05/2026 16:53:47 - Step 1b: Regenerating index.html with date list...
-10/05/2026 16:53:47 - Generated index.html with 0 dates (DESCENDING order)
-10/05/2026 16:53:47 - ? index.html regenerated with latest dates (DESCENDING order)
-10/05/2026 16:53:47 - Step 2: Cleaning up old dashboard files...
-10/05/2026 16:53:47 - ? Cleaned up 0 old files
-10/05/2026 16:53:47 - Step 3: Deploying to GitHub...
-10/05/2026 16:53:47 - Found 33 files to upload
-10/05/2026 16:53:48 - Uploaded: dashboard_20260409.html
-10/05/2026 16:53:49 - Uploaded: dashboard_20260410.html
-10/05/2026 16:53:50 - Uploaded: dashboard_20260411.html
-10/05/2026 16:53:51 - Uploaded: dashboard_20260412.html
-10/05/2026 16:53:52 - Uploaded: dashboard_20260413.html
-10/05/2026 16:53:54 - Uploaded: dashboard_20260414.html
-10/05/2026 16:53:55 - Uploaded: dashboard_20260415.html
-10/05/2026 16:53:56 - Uploaded: dashboard_20260416.html
-10/05/2026 16:53:57 - Uploaded: dashboard_20260417.html
-10/05/2026 16:53:58 - Uploaded: dashboard_20260418.html
-10/05/2026 16:53:59 - Uploaded: dashboard_20260419.html
-10/05/2026 16:54:00 - Uploaded: dashboard_20260420.html
-10/05/2026 16:54:01 - Uploaded: dashboard_20260421.html
-10/05/2026 16:54:02 - Uploaded: dashboard_20260422.html
-10/05/2026 16:54:03 - Uploaded: dashboard_20260423.html
-10/05/2026 16:54:04 - Uploaded: dashboard_20260424.html
-10/05/2026 16:54:05 - Uploaded: dashboard_20260425.html
-10/05/2026 16:54:07 - Uploaded: dashboard_20260426.html
-10/05/2026 16:54:08 - Uploaded: dashboard_20260427.html
-10/05/2026 16:54:09 - Uploaded: dashboard_20260428.html
-10/05/2026 16:54:10 - Uploaded: dashboard_20260429.html
-10/05/2026 16:54:11 - Uploaded: dashboard_20260430.html
-10/05/2026 16:54:12 - Uploaded: dashboard_20260501.html
-10/05/2026 16:54:14 - Uploaded: dashboard_20260502.html
-10/05/2026 16:54:15 - Uploaded: dashboard_20260503.html
-10/05/2026 16:54:16 - Uploaded: dashboard_20260504.html
-10/05/2026 16:54:17 - Uploaded: dashboard_20260505.html
-10/05/2026 16:54:18 - Uploaded: dashboard_20260506.html
-10/05/2026 16:54:19 - Uploaded: dashboard_20260507.html
-10/05/2026 16:54:20 - Uploaded: dashboard_20260508.html
-10/05/2026 16:54:21 - Uploaded: dashboard_20260509.html
-10/05/2026 16:54:22 - Uploaded: dashboard_20260510.html
-10/05/2026 16:54:23 - Uploaded: index.html
-10/05/2026 16:54:23 - Upload complete: 33/33 files
-10/05/2026 16:54:23 - ? Deployed to GitHub successfully
-10/05/2026 16:54:23 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
-10/05/2026 16:54:23 - Step 4: Uploading log file...
-10/05/2026 16:54:25 - ? Log file uploaded to GitHub
-10/05/2026 16:54:25 - === PROCESS COMPLETED SUCCESSFULLY ===
-10/05/2026 16:59:57 - === AUTO DASHBOARD GENERATION STARTED ===
-10/05/2026 16:59:57 - Timestamp: 10/05/2026 16:59:57
-10/05/2026 16:59:57 - Step 1: Generating last 3 days of dashboards...
-10/05/2026 16:59:57 - Regenerating last 3 days of dashboards...
-10/05/2026 16:59:57 - Generated: dashboard_20260508.html
-10/05/2026 16:59:58 - Generated: dashboard_20260509.html
-10/05/2026 16:59:58 - Generated: dashboard_20260510.html
-10/05/2026 16:59:58 - ? Regenerated 3 days of dashboards
-10/05/2026 16:59:58 - ? Dashboards generated successfully (includes yesterday for data updates)
-10/05/2026 16:59:58 - Step 1b: Regenerating index.html with date list...
-10/05/2026 16:59:58 - Generated index.html with 0 dates (DESCENDING order)
-10/05/2026 16:59:58 - ? index.html regenerated with latest dates (DESCENDING order)
-10/05/2026 16:59:58 - Step 2: Cleaning up old dashboard files...
-10/05/2026 16:59:58 - ? Cleaned up 0 old files
-10/05/2026 16:59:58 - Step 3: Deploying to GitHub...
-10/05/2026 16:59:58 - Found 33 files to upload
-10/05/2026 16:59:59 - Uploaded: dashboard_20260409.html
-10/05/2026 17:00:00 - Uploaded: dashboard_20260410.html
-10/05/2026 17:00:01 - Uploaded: dashboard_20260411.html
-10/05/2026 17:00:02 - Uploaded: dashboard_20260412.html
-10/05/2026 17:00:03 - Uploaded: dashboard_20260413.html
-10/05/2026 17:00:05 - Uploaded: dashboard_20260414.html
-10/05/2026 17:00:06 - Uploaded: dashboard_20260415.html
-10/05/2026 17:00:08 - Uploaded: dashboard_20260416.html
-10/05/2026 17:00:09 - Uploaded: dashboard_20260417.html
-10/05/2026 17:00:10 - Uploaded: dashboard_20260418.html
-10/05/2026 17:00:11 - Uploaded: dashboard_20260419.html
-10/05/2026 17:00:13 - Uploaded: dashboard_20260420.html
-10/05/2026 17:00:14 - Uploaded: dashboard_20260421.html
-10/05/2026 17:00:15 - Uploaded: dashboard_20260422.html
-10/05/2026 17:00:16 - Uploaded: dashboard_20260423.html
-10/05/2026 17:00:18 - Uploaded: dashboard_20260424.html
-10/05/2026 17:00:19 - Uploaded: dashboard_20260425.html
-10/05/2026 17:00:20 - Uploaded: dashboard_20260426.html
-10/05/2026 17:00:21 - Uploaded: dashboard_20260427.html
-10/05/2026 17:00:22 - Uploaded: dashboard_20260428.html
-10/05/2026 17:00:24 - Uploaded: dashboard_20260429.html
-10/05/2026 17:00:25 - Uploaded: dashboard_20260430.html
-10/05/2026 17:00:26 - Uploaded: dashboard_20260501.html
-10/05/2026 17:00:27 - Uploaded: dashboard_20260502.html
-10/05/2026 17:00:28 - Uploaded: dashboard_20260503.html
-10/05/2026 17:00:30 - Uploaded: dashboard_20260504.html
-10/05/2026 17:00:31 - Uploaded: dashboard_20260505.html
-10/05/2026 17:00:32 - Uploaded: dashboard_20260506.html
-10/05/2026 17:00:33 - Uploaded: dashboard_20260507.html
-10/05/2026 17:00:35 - Uploaded: dashboard_20260508.html
-10/05/2026 17:00:36 - Uploaded: dashboard_20260509.html
-10/05/2026 17:00:37 - Uploaded: dashboard_20260510.html
-10/05/2026 17:00:38 - Uploaded: index.html
-10/05/2026 17:00:38 - Upload complete: 33/33 files
-10/05/2026 17:00:38 - ? Deployed to GitHub successfully
-10/05/2026 17:00:38 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
-10/05/2026 17:00:38 - Step 4: Uploading log file...
-10/05/2026 17:00:40 - ? Log file uploaded to GitHub
-10/05/2026 17:00:40 - === PROCESS COMPLETED SUCCESSFULLY ===
-10/05/2026 17:15:33 - === AUTO DASHBOARD GENERATION STARTED ===
-10/05/2026 17:15:33 - Timestamp: 10/05/2026 17:15:33
-10/05/2026 17:15:33 - Step 1: Generating last 3 days of dashboards...
-10/05/2026 17:15:33 - Regenerating last 3 days of dashboards...
-10/05/2026 17:15:33 - Generated: dashboard_20260508.html
-10/05/2026 17:15:33 - Generated: dashboard_20260509.html
-10/05/2026 17:15:33 - Generated: dashboard_20260510.html
-10/05/2026 17:15:33 - ? Regenerated 3 days of dashboards
-10/05/2026 17:15:33 - ? Dashboards generated successfully (includes yesterday for data updates)
-10/05/2026 17:15:33 - Step 1b: Regenerating index.html with date list...
-10/05/2026 17:15:33 - GenerateMainIndex: Searching for files in: D:\WINSOFT\CLINIC_VISTA_STOCK_EYE\API_DATA\dashboard_*.html
-10/05/2026 17:15:33 - GenerateMainIndex: Found 32 files
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260409.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260409.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260410.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260410.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260411.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260411.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260412.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260412.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260413.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260413.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260414.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260414.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260415.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260415.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260416.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260416.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260417.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260417.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260418.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260418.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260419.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260419.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260420.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260420.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260421.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260421.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260422.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260422.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260423.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260423.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260424.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260424.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260425.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260425.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260426.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260426.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260427.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260427.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260428.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260428.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260429.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260429.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260430.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260430.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260501.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260501.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260502.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260502.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260503.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260503.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260504.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260504.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260505.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260505.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260506.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260506.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260507.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260507.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260508.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260508.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260509.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260509.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Processing file: DASHBOARD_20260510.HTML
-10/05/2026 17:15:33 - GenerateMainIndex: Skipped file (not dashboard pattern): DASHBOARD_20260510.HTML
-10/05/2026 17:15:33 - WARNING: No valid dashboard files found in D:\WINSOFT\CLINIC_VISTA_STOCK_EYE\API_DATA\
-10/05/2026 17:15:33 - Generated index.html with 0 dates (DESCENDING order)
-10/05/2026 17:15:33 - ? index.html regenerated with latest dates (DESCENDING order)
-10/05/2026 17:15:33 - Step 2: Cleaning up old dashboard files...
-10/05/2026 17:15:33 - ? Cleaned up 0 old files
-10/05/2026 17:15:33 - Step 3: Deploying to GitHub...
-10/05/2026 17:15:33 - Found 33 files to upload
-10/05/2026 17:15:34 - Uploaded: dashboard_20260409.html
-10/05/2026 17:15:36 - Uploaded: dashboard_20260410.html
-10/05/2026 17:15:37 - Uploaded: dashboard_20260411.html
-10/05/2026 17:15:38 - Uploaded: dashboard_20260412.html
-10/05/2026 17:15:39 - Uploaded: dashboard_20260413.html
-10/05/2026 17:15:40 - Uploaded: dashboard_20260414.html
-10/05/2026 17:15:41 - Uploaded: dashboard_20260415.html
-10/05/2026 17:15:42 - Uploaded: dashboard_20260416.html
-10/05/2026 17:15:44 - Uploaded: dashboard_20260417.html
-10/05/2026 17:15:45 - Uploaded: dashboard_20260418.html
-10/05/2026 17:15:46 - Uploaded: dashboard_20260419.html
-10/05/2026 17:15:47 - Uploaded: dashboard_20260420.html
-10/05/2026 17:15:48 - Uploaded: dashboard_20260421.html
-10/05/2026 17:15:49 - Uploaded: dashboard_20260422.html
-10/05/2026 17:15:51 - Uploaded: dashboard_20260423.html
-10/05/2026 17:15:52 - Uploaded: dashboard_20260424.html
-10/05/2026 17:15:53 - Uploaded: dashboard_20260425.html
-10/05/2026 17:15:54 - Uploaded: dashboard_20260426.html
-10/05/2026 17:15:55 - Uploaded: dashboard_20260427.html
-10/05/2026 17:15:56 - Uploaded: dashboard_20260428.html
-10/05/2026 17:15:57 - Uploaded: dashboard_20260429.html
-10/05/2026 17:15:59 - Uploaded: dashboard_20260430.html
-10/05/2026 17:16:00 - Uploaded: dashboard_20260501.html
-10/05/2026 17:16:01 - Uploaded: dashboard_20260502.html
-10/05/2026 17:16:02 - Uploaded: dashboard_20260503.html
-10/05/2026 17:16:03 - Uploaded: dashboard_20260504.html
-10/05/2026 17:16:04 - Uploaded: dashboard_20260505.html
-10/05/2026 17:16:05 - Uploaded: dashboard_20260506.html
-10/05/2026 17:16:06 - Uploaded: dashboard_20260507.html
-10/05/2026 17:16:07 - Uploaded: dashboard_20260508.html
-10/05/2026 17:16:08 - Uploaded: dashboard_20260509.html
-10/05/2026 17:16:09 - Uploaded: dashboard_20260510.html
-10/05/2026 17:16:10 - Uploaded: index.html
-10/05/2026 17:16:10 - Upload complete: 33/33 files
-10/05/2026 17:16:10 - ? Deployed to GitHub successfully
-10/05/2026 17:16:10 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
-10/05/2026 17:16:10 - Step 4: Uploading log file...
-10/05/2026 17:16:12 - ? Log file uploaded to GitHub
-10/05/2026 17:16:12 - === PROCESS COMPLETED SUCCESSFULLY ===
-10/05/2026 17:32:01 - === AUTO DASHBOARD GENERATION STARTED ===
-10/05/2026 17:32:01 - Timestamp: 10/05/2026 17:32:01
-10/05/2026 17:32:01 - Step 1: Generating last 3 days of dashboards...
-10/05/2026 17:32:01 - Regenerating last 3 days of dashboards...
-10/05/2026 17:32:01 - Generated: dashboard_20260508.html
-10/05/2026 17:32:01 - Generated: dashboard_20260509.html
-10/05/2026 17:32:02 - Generated: dashboard_20260510.html
-10/05/2026 17:32:02 - ? Regenerated 3 days of dashboards
-10/05/2026 17:32:02 - ? Dashboards generated successfully (includes yesterday for data updates)
-10/05/2026 17:32:02 - Step 1b: Regenerating index.html with date list...
-10/05/2026 17:32:02 - GenerateMainIndex: Searching for files in: D:\WINSOFT\CLINIC_VISTA_STOCK_EYE\API_DATA\dashboard_*.html
-10/05/2026 17:32:02 - GenerateMainIndex: Found 32 files
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260409.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 09/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260410.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 10/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260411.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 11/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260412.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 12/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260413.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 13/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260414.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 14/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260415.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 15/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260416.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 16/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260417.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 17/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260418.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 18/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260419.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 19/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260420.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 20/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260421.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 21/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260422.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 22/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260423.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 23/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260424.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 24/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260425.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 25/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260426.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 26/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260427.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 27/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260428.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 28/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260429.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 29/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260430.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 30/04/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260501.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 01/05/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260502.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 02/05/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260503.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 03/05/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260504.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 04/05/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260505.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 05/05/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260506.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 06/05/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260507.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 07/05/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260508.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 08/05/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260509.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 09/05/2026
-10/05/2026 17:32:02 - GenerateMainIndex: Processing file: DASHBOARD_20260510.HTML
-10/05/2026 17:32:02 - GenerateMainIndex: Added date: 10/05/2026
-10/05/2026 17:32:02 - Generated index.html with 32 dates (DESCENDING order)
-10/05/2026 17:32:02 - ? index.html regenerated with latest dates (DESCENDING order)
-10/05/2026 17:32:02 - Step 2: Cleaning up old dashboard files...
-10/05/2026 17:32:02 - ? Cleaned up 0 old files
-10/05/2026 17:32:02 - Step 3: Deploying to GitHub...
-10/05/2026 17:32:02 - Found 33 files to upload
-10/05/2026 17:32:03 - Uploaded: dashboard_20260409.html
-10/05/2026 17:32:04 - Uploaded: dashboard_20260410.html
-10/05/2026 17:32:05 - Uploaded: dashboard_20260411.html
-10/05/2026 17:32:07 - Uploaded: dashboard_20260412.html
-10/05/2026 17:32:08 - Uploaded: dashboard_20260413.html
-10/05/2026 17:32:09 - Uploaded: dashboard_20260414.html
-10/05/2026 17:32:10 - Uploaded: dashboard_20260415.html
-10/05/2026 17:32:11 - Uploaded: dashboard_20260416.html
-10/05/2026 17:32:12 - Uploaded: dashboard_20260417.html
-10/05/2026 17:32:13 - Uploaded: dashboard_20260418.html
-10/05/2026 17:32:15 - Uploaded: dashboard_20260419.html
-10/05/2026 17:32:16 - Uploaded: dashboard_20260420.html
-10/05/2026 17:32:17 - Uploaded: dashboard_20260421.html
-10/05/2026 17:32:19 - Uploaded: dashboard_20260422.html
-10/05/2026 17:32:20 - Uploaded: dashboard_20260423.html
-10/05/2026 17:32:21 - Uploaded: dashboard_20260424.html
-10/05/2026 17:32:23 - Uploaded: dashboard_20260425.html
-10/05/2026 17:32:24 - Uploaded: dashboard_20260426.html
-10/05/2026 17:32:26 - Uploaded: dashboard_20260427.html
-10/05/2026 17:32:27 - Uploaded: dashboard_20260428.html
-10/05/2026 17:32:28 - Uploaded: dashboard_20260429.html
-10/05/2026 17:32:29 - Uploaded: dashboard_20260430.html
-10/05/2026 17:32:30 - Uploaded: dashboard_20260501.html
-10/05/2026 17:32:31 - Uploaded: dashboard_20260502.html
-10/05/2026 17:32:32 - Uploaded: dashboard_20260503.html
-10/05/2026 17:32:33 - Uploaded: dashboard_20260504.html
-10/05/2026 17:32:35 - Uploaded: dashboard_20260505.html
-10/05/2026 17:32:36 - Uploaded: dashboard_20260506.html
-10/05/2026 17:32:37 - Uploaded: dashboard_20260507.html
-10/05/2026 17:32:39 - Uploaded: dashboard_20260508.html
-10/05/2026 17:32:40 - Uploaded: dashboard_20260509.html
-10/05/2026 17:32:41 - Uploaded: dashboard_20260510.html
-10/05/2026 17:32:42 - Uploaded: index.html
-10/05/2026 17:32:42 - Upload complete: 33/33 files
-10/05/2026 17:32:42 - ? Deployed to GitHub successfully
-10/05/2026 17:32:42 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
-10/05/2026 17:32:42 - Step 4: Uploading log file...
-10/05/2026 17:32:44 - ? Log file uploaded to GitHub
-10/05/2026 17:32:44 - === PROCESS COMPLETED SUCCESSFULLY ===
-10/05/2026 18:51:46 - === AUTO DASHBOARD GENERATION STARTED ===
-10/05/2026 18:51:46 - Timestamp: 10/05/2026 18:51:46
-10/05/2026 18:51:46 - Step 1: Generating last 3 days of dashboards...
-10/05/2026 18:51:46 - Regenerating last 3 days of dashboards...
-10/05/2026 18:51:46 - Generated: dashboard_20260508.html
-10/05/2026 18:51:46 - Generated: dashboard_20260509.html
-10/05/2026 18:51:46 - Generated: dashboard_20260510.html
-10/05/2026 18:51:46 - ? Regenerated 3 days of dashboards
-10/05/2026 18:51:46 - ? Dashboards generated successfully (includes yesterday for data updates)
-10/05/2026 18:51:46 - Step 1b: Regenerating index.html with date list...
-10/05/2026 18:51:46 - GenerateMainIndex: Searching for files in: D:\WINSOFT\CLINIC_VISTA_STOCK_EYE\API_DATA\dashboard_*.html
-10/05/2026 18:51:46 - GenerateMainIndex: Found 32 files
-10/05/2026 18:51:46 - Generated index.html with 32 dates
-10/05/2026 18:51:46 - ? index.html regenerated with latest dates (DESCENDING order)
-10/05/2026 18:51:46 - Step 2: Cleaning up old dashboard files...
-10/05/2026 18:51:46 - ? Cleaned up 0 old files
-10/05/2026 18:51:46 - Step 3: Deploying to GitHub...
-10/05/2026 18:51:46 - Found 33 files to upload
-10/05/2026 18:51:48 - Uploaded: dashboard_20260409.html
-10/05/2026 18:51:49 - Uploaded: dashboard_20260410.html
-10/05/2026 18:51:50 - Uploaded: dashboard_20260411.html
-10/05/2026 18:51:51 - Uploaded: dashboard_20260412.html
-10/05/2026 18:51:52 - Uploaded: dashboard_20260413.html
-10/05/2026 18:51:53 - Uploaded: dashboard_20260414.html
-10/05/2026 18:51:54 - Uploaded: dashboard_20260415.html
-10/05/2026 18:51:56 - Uploaded: dashboard_20260416.html
-10/05/2026 18:51:57 - Uploaded: dashboard_20260417.html
-10/05/2026 18:51:58 - Uploaded: dashboard_20260418.html
-10/05/2026 18:51:59 - Uploaded: dashboard_20260419.html
-10/05/2026 18:52:00 - Uploaded: dashboard_20260420.html
-10/05/2026 18:52:01 - Uploaded: dashboard_20260421.html
-10/05/2026 18:52:03 - Uploaded: dashboard_20260422.html
-10/05/2026 18:52:04 - Uploaded: dashboard_20260423.html
-10/05/2026 18:52:05 - Uploaded: dashboard_20260424.html
-10/05/2026 18:52:06 - Uploaded: dashboard_20260425.html
-10/05/2026 18:52:07 - Uploaded: dashboard_20260426.html
-10/05/2026 18:52:08 - Uploaded: dashboard_20260427.html
-10/05/2026 18:52:09 - Uploaded: dashboard_20260428.html
-10/05/2026 18:52:10 - Uploaded: dashboard_20260429.html
-10/05/2026 18:52:11 - Uploaded: dashboard_20260430.html
-10/05/2026 18:52:12 - Uploaded: dashboard_20260501.html
-10/05/2026 18:52:14 - Uploaded: dashboard_20260502.html
-10/05/2026 18:52:15 - Uploaded: dashboard_20260503.html
-10/05/2026 18:52:16 - Uploaded: dashboard_20260504.html
-10/05/2026 18:52:17 - Uploaded: dashboard_20260505.html
-10/05/2026 18:52:18 - Uploaded: dashboard_20260506.html
-10/05/2026 18:52:19 - Uploaded: dashboard_20260507.html
-10/05/2026 18:52:21 - Uploaded: dashboard_20260508.html
-10/05/2026 18:52:22 - Uploaded: dashboard_20260509.html
-10/05/2026 18:52:23 - Uploaded: dashboard_20260510.html
-10/05/2026 18:52:25 - Uploaded: index.html
-10/05/2026 18:52:25 - Upload complete: 33/33 files
-10/05/2026 18:52:25 - ? Deployed to GitHub successfully
-10/05/2026 18:52:25 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
-10/05/2026 18:52:25 - Step 4: Uploading log file...
+11/05/2026 10:15:30 - === AUTO DASHBOARD GENERATION STARTED ===
+11/05/2026 10:15:30 - Timestamp: 11/05/2026 10:15:30
+11/05/2026 10:15:30 - Step 1: Generating last 3 days of dashboards...
+11/05/2026 10:15:30 - Regenerating last 3 days of dashboards...
+11/05/2026 10:15:30 - Generated: dashboard_20260509.html
+11/05/2026 10:15:31 - Generated: dashboard_20260510.html
+11/05/2026 10:15:31 - Generated: dashboard_20260511.html
+11/05/2026 10:15:31 - ? Regenerated 3 days of dashboards
+11/05/2026 10:15:31 - ? Dashboards generated successfully (includes yesterday for data updates)
+11/05/2026 10:15:31 - Step 1b: Regenerating index.html with date list...
+11/05/2026 10:15:31 - GenerateMainIndex: Searching for files in: D:\WINSOFT\CLINIC_VISTA_STOCK_EYE\API_DATA\dashboard_*.html
+11/05/2026 10:15:31 - GenerateMainIndex: Found 33 files
+11/05/2026 10:15:31 - Generated index.html with 33 dates
+11/05/2026 10:15:31 - ? index.html regenerated with latest dates (DESCENDING order)
+11/05/2026 10:15:31 - Step 1c: Generating login page...
+11/05/2026 10:15:31 - ERROR: Command contains unrecognized phrase/keyword.
+11/05/2026 10:15:31 - === PROCESS FAILED ===
+11/05/2026 10:18:13 - === AUTO DASHBOARD GENERATION STARTED ===
+11/05/2026 10:18:13 - Timestamp: 11/05/2026 10:18:13
+11/05/2026 10:18:13 - Step 1: Generating last 3 days of dashboards...
+11/05/2026 10:18:13 - Regenerating last 3 days of dashboards...
+11/05/2026 10:18:14 - Generated: dashboard_20260509.html
+11/05/2026 10:18:14 - Generated: dashboard_20260510.html
+11/05/2026 10:18:14 - Generated: dashboard_20260511.html
+11/05/2026 10:18:14 - ? Regenerated 3 days of dashboards
+11/05/2026 10:18:14 - ? Dashboards generated successfully (includes yesterday for data updates)
+11/05/2026 10:18:14 - Step 1b: Regenerating index.html with date list...
+11/05/2026 10:18:14 - GenerateMainIndex: Searching for files in: D:\WINSOFT\CLINIC_VISTA_STOCK_EYE\API_DATA\dashboard_*.html
+11/05/2026 10:18:14 - GenerateMainIndex: Found 33 files
+11/05/2026 10:18:14 - Generated index.html with 33 dates
+11/05/2026 10:18:14 - ? index.html regenerated with latest dates (DESCENDING order)
+11/05/2026 10:18:14 - Step 1c: Generating login page...
+11/05/2026 10:18:14 - Generated login.html
+11/05/2026 10:18:14 - ? Login page generated
+11/05/2026 10:18:14 - Step 2: Cleaning up old dashboard files...
+11/05/2026 10:18:14 - ? Cleaned up 0 old files
+11/05/2026 10:18:14 - Step 3: Deploying to GitHub...
+11/05/2026 10:18:14 - Found 35 files to upload
+11/05/2026 10:18:15 - Uploaded: dashboard_20260409.html
+11/05/2026 10:18:17 - Uploaded: dashboard_20260410.html
+11/05/2026 10:18:18 - Uploaded: dashboard_20260411.html
+11/05/2026 10:18:19 - Uploaded: dashboard_20260412.html
+11/05/2026 10:18:21 - Uploaded: dashboard_20260413.html
+11/05/2026 10:18:22 - Uploaded: dashboard_20260414.html
+11/05/2026 10:18:23 - Uploaded: dashboard_20260415.html
+11/05/2026 10:18:25 - Uploaded: dashboard_20260416.html
+11/05/2026 10:18:26 - Uploaded: dashboard_20260417.html
+11/05/2026 10:18:28 - Uploaded: dashboard_20260418.html
+11/05/2026 10:18:29 - Uploaded: dashboard_20260419.html
+11/05/2026 10:18:30 - Uploaded: dashboard_20260420.html
+11/05/2026 10:18:31 - Uploaded: dashboard_20260421.html
+11/05/2026 10:18:33 - Uploaded: dashboard_20260422.html
+11/05/2026 10:18:34 - Uploaded: dashboard_20260423.html
+11/05/2026 10:18:35 - Uploaded: dashboard_20260424.html
+11/05/2026 10:18:36 - Uploaded: dashboard_20260425.html
+11/05/2026 10:18:38 - Uploaded: dashboard_20260426.html
+11/05/2026 10:18:39 - Uploaded: dashboard_20260427.html
+11/05/2026 10:18:41 - Uploaded: dashboard_20260428.html
+11/05/2026 10:18:43 - Uploaded: dashboard_20260429.html
+11/05/2026 10:18:44 - Uploaded: dashboard_20260430.html
+11/05/2026 10:18:45 - Uploaded: dashboard_20260501.html
+11/05/2026 10:18:46 - Uploaded: dashboard_20260502.html
+11/05/2026 10:18:48 - Uploaded: dashboard_20260503.html
+11/05/2026 10:18:49 - Uploaded: dashboard_20260504.html
+11/05/2026 10:18:50 - Uploaded: dashboard_20260505.html
+11/05/2026 10:18:52 - Uploaded: dashboard_20260506.html
+11/05/2026 10:18:53 - Uploaded: dashboard_20260507.html
+11/05/2026 10:18:56 - Uploaded: dashboard_20260508.html
+11/05/2026 10:18:57 - Uploaded: dashboard_20260509.html
+11/05/2026 10:18:58 - Uploaded: dashboard_20260510.html
+11/05/2026 10:19:00 - Uploaded: dashboard_20260511.html
+11/05/2026 10:19:01 - Uploaded: index.html
+11/05/2026 10:19:02 - Uploaded: login.html
+11/05/2026 10:19:02 - Upload complete: 35/35 files
+11/05/2026 10:19:02 - ? Deployed to GitHub successfully
+11/05/2026 10:19:02 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
+11/05/2026 10:19:02 - Step 4: Uploading log file...
