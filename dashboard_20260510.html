@@ -7,7 +7,7 @@
 <style>
 * { box-sizing: border-box; }
 body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 0; background: #f8f9fa; color: #333; }
-.header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0; text-align: center; }
+.header { background: linear-gradient(135deg, #2196F3 0%, #1976D2 100%); color: white; padding: 0; text-align: center; }
 .header-top { display: flex; justify-content: space-between; align-items: center; padding: 10px 20px; background: rgba(0,0,0,0.1); font-size: 13px; }
 .back-link { color: rgba(255,255,255,0.9); text-decoration: none; padding: 6px 12px; border: 1px solid rgba(255,255,255,0.3); border-radius: 4px; transition: all 0.2s; }
 .back-link:hover { background: rgba(255,255,255,0.15); border-color: rgba(255,255,255,0.5); }
@@ -18,15 +18,15 @@ body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 0; backgr
 .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin-bottom: 30px; }
 .stat-card { background: white; padding: 25px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); text-align: center; border: 1px solid #e9ecef; transition: transform 0.2s, box-shadow 0.2s; }
 .stat-card:hover { transform: translateY(-3px); box-shadow: 0 4px 12px rgba(0,0,0,0.12); }
-.stat-value { font-size: 38px; font-weight: 700; color: #667eea; margin-bottom: 8px; }
+.stat-value { font-size: 38px; font-weight: 700; color: #2196F3; margin-bottom: 8px; }
 .stat-label { color: #6c757d; font-size: 14px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; }
 .data-table { width: 100%; background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border: 1px solid #e9ecef; }
-.data-table th { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 14px 16px; text-align: left; font-weight: 600; font-size: 13px; text-transform: uppercase; letter-spacing: 0.5px; }
+.data-table th { background: linear-gradient(135deg, #2196F3 0%, #1976D2 100%); color: white; padding: 14px 16px; text-align: left; font-weight: 600; font-size: 13px; text-transform: uppercase; letter-spacing: 0.5px; }
 .data-table td { padding: 14px 16px; border-bottom: 1px solid #e9ecef; font-size: 14px; }
 .data-table tr:hover { background: #f8f9fa; }
 .data-table tr:last-child td { border-bottom: none; }
 .footer { background: #fff; color: #6c757d; text-align: center; padding: 20px; margin-top: 40px; border-top: 1px solid #e9ecef; font-size: 13px; }
-.footer a { color: #667eea; text-decoration: none; }
+.footer a { color: #2196F3; text-decoration: none; }
 .footer a:hover { text-decoration: underline; }
 @media (max-width: 768px) { .header-top { flex-direction: column; gap: 10px; } .stats-grid { grid-template-columns: 1fr; } }
 </style>
@@ -38,7 +38,7 @@ var _a=sessionStorage.getItem('auth');if(_a==null||_a==''){window.location.href=
 <div class='header'>
   <div class='header-top'>
     <a href='main.html' class='back-link'>&lt; Back to Main</a>
-    <span class='gen-info'>Generated: 11/05/2026 12:14:26</span>
+    <span class='gen-info'>Generated: 11/05/2026 17:48:25</span>
   </div>
   <h1>Clinic Dashboard</h1>
   <div class='date-display'>10/05/2026</div>
