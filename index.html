@@ -2,12 +2,12 @@
 <html>
 <head><title>Login</title><meta charset='UTF-8'>
 <style>
-body{font-family:Arial,sans-serif;margin:0;padding:0;background:#667eea;min-height:100vh;display:flex;align-items:center;justify-content:center}
+body{font-family:Arial,sans-serif;margin:0;padding:0;background:linear-gradient(135deg,#2196F3 0%,#1976D2 100%);min-height:100vh;display:flex;align-items:center;justify-content:center}
 .box{background:#fff;padding:40px;border-radius:10px;box-shadow:0 4px 20px rgba(0,0,0,0.3);text-align:center;width:300px}
-h1{margin:0 0 20px 0;color:#667eea}
+h1{margin:0 0 20px 0;color:#2196F3}
 input{width:100%;padding:12px;margin-bottom:15px;border:1px solid #ddd;border-radius:5px;box-sizing:border-box}
-button{width:100%;padding:12px;background:#667eea;color:#fff;border:none;border-radius:5px;cursor:pointer;font-size:16px}
-button:hover{background:#5a6fd6}
+button{width:100%;padding:12px;background:#2196F3;color:#fff;border:none;border-radius:5px;cursor:pointer;font-size:16px}
+button:hover{background:#1976D2}
 .err{color:#e74c3c;margin-top:10px}
 </style></head>
 <body>
@@ -21,7 +21,11 @@ button:hover{background:#5a6fd6}
 <div id='e' class='err'></div>
 </div>
 <script>
-var users={'admin':'clinic123','user':'demo'};
+var users={};
+var x=new XMLHttpRequest();
+x.open('GET','users.json',false);
+x.send();
+if(x.status==200){try{users=JSON.parse(x.responseText);}catch(e){}}
 function login(){
   var u=document.getElementById('u').value;
   var p=document.getElementById('p').value;
