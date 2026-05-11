@@ -1,98 +1,38 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Clinic Management Dashboard</title>
-<meta charset='UTF-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<head><title>Login</title><meta charset='UTF-8'>
 <style>
-body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; }
-.header { background: #2196F3; color: white; padding: 20px 30px; }
-.header h1 { margin: 0; font-size: 28px; }
-.quick-access { font-size: 14px; margin-top: 5px; opacity: 0.9; }
-.stats-container { padding: 20px; }
-.stats-row { display: flex; gap: 20px; flex-wrap: wrap; }
-.stat-card { background: white; border-radius: 8px; padding: 20px; flex: 1; min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-.stat-card h3 { margin: 0 0 10px 0; color: #333; font-size: 16px; }
-.stat-value { font-size: 36px; font-weight: bold; margin-bottom: 5px; }
-.stat-value.blue { color: #2196F3; }
-.stat-detail { font-size: 12px; color: #666; }
-.activity-detail { font-size: 13px; color: #666; line-height: 1.6; }
-.date-section { background: white; margin: 0 20px 20px 20px; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-.date-section h2 { margin: 0 0 15px 0; color: #2196F3; font-size: 18px; }
-.date-buttons { display: flex; flex-wrap: wrap; gap: 10px; }
-.date-button { background: #4CAF50; color: white; padding: 10px 15px; border-radius: 4px; text-decoration: none; font-size: 14px; transition: background 0.3s; }
-.date-button:hover { background: #45a049; }
-</style>
-</head>
+body{font-family:Arial,sans-serif;margin:0;padding:0;background:#667eea;min-height:100vh;display:flex;align-items:center;justify-content:center}
+.box{background:#fff;padding:40px;border-radius:10px;box-shadow:0 4px 20px rgba(0,0,0,0.3);text-align:center;width:300px}
+h1{margin:0 0 20px 0;color:#667eea}
+input{width:100%;padding:12px;margin-bottom:15px;border:1px solid #ddd;border-radius:5px;box-sizing:border-box}
+button{width:100%;padding:12px;background:#667eea;color:#fff;border:none;border-radius:5px;cursor:pointer;font-size:16px}
+button:hover{background:#5a6fd6}
+.err{color:#e74c3c;margin-top:10px}
+</style></head>
 <body>
-<div class='header'>
-  <h1>Clinic Management Dashboard</h1>
-  <div class='quick-access'>Quick Access:</div>
+<div class='box'>
+<h1>Clinic Dashboard</h1>
+<form onsubmit='return login()'>
+<input type='text' id='u' placeholder='Username' required>
+<input type='password' id='p' placeholder='Password' required>
+<button type='submit'>Sign In</button>
+</form>
+<div id='e' class='err'></div>
 </div>
-<div class='stats-container'>
-  <div class='stats-row'>
-    <div class='stat-card'>
-      <h3>Total Patients</h3>
-      <div class='stat-value blue'>8666</div>
-      <div class='stat-detail'>New Today: 0</div>
-    </div>
-    <div class='stat-card'>
-      <h3>Consultations</h3>
-      <div class='stat-value blue'>0</div>
-      <div class='stat-detail'>Today: 0</div>
-    </div>
-    <div class='stat-card'>
-      <h3>Revenue</h3>
-      <div class='stat-value blue'>$ 0</div>
-      <div class='stat-detail'>Today: $ 0</div>
-    </div>
-    <div class='stat-card'>
-      <h3>Today's Activity</h3>
-      <div class='activity-detail'>
-        Appointments: 0<br>
-        Pending: 0<br>
-        Last Update: 11/05/2026 10:18:14
-      </div>
-    </div>
-  </div>
-</div>
-<div class='date-section'>
-  <h2>Select Date to View Detailed Dashboard</h2>
-  <div class='date-buttons'>
-    <a href='dashboard_20260511.html' class='date-button'>11/05/2026</a>
-    <a href='dashboard_20260510.html' class='date-button'>10/05/2026</a>
-    <a href='dashboard_20260509.html' class='date-button'>09/05/2026</a>
-    <a href='dashboard_20260508.html' class='date-button'>08/05/2026</a>
-    <a href='dashboard_20260507.html' class='date-button'>07/05/2026</a>
-    <a href='dashboard_20260506.html' class='date-button'>06/05/2026</a>
-    <a href='dashboard_20260505.html' class='date-button'>05/05/2026</a>
-    <a href='dashboard_20260504.html' class='date-button'>04/05/2026</a>
-    <a href='dashboard_20260503.html' class='date-button'>03/05/2026</a>
-    <a href='dashboard_20260502.html' class='date-button'>02/05/2026</a>
-    <a href='dashboard_20260501.html' class='date-button'>01/05/2026</a>
-    <a href='dashboard_20260430.html' class='date-button'>30/04/2026</a>
-    <a href='dashboard_20260429.html' class='date-button'>29/04/2026</a>
-    <a href='dashboard_20260428.html' class='date-button'>28/04/2026</a>
-    <a href='dashboard_20260427.html' class='date-button'>27/04/2026</a>
-    <a href='dashboard_20260426.html' class='date-button'>26/04/2026</a>
-    <a href='dashboard_20260425.html' class='date-button'>25/04/2026</a>
-    <a href='dashboard_20260424.html' class='date-button'>24/04/2026</a>
-    <a href='dashboard_20260423.html' class='date-button'>23/04/2026</a>
-    <a href='dashboard_20260422.html' class='date-button'>22/04/2026</a>
-    <a href='dashboard_20260421.html' class='date-button'>21/04/2026</a>
-    <a href='dashboard_20260420.html' class='date-button'>20/04/2026</a>
-    <a href='dashboard_20260419.html' class='date-button'>19/04/2026</a>
-    <a href='dashboard_20260418.html' class='date-button'>18/04/2026</a>
-    <a href='dashboard_20260417.html' class='date-button'>17/04/2026</a>
-    <a href='dashboard_20260416.html' class='date-button'>16/04/2026</a>
-    <a href='dashboard_20260415.html' class='date-button'>15/04/2026</a>
-    <a href='dashboard_20260414.html' class='date-button'>14/04/2026</a>
-    <a href='dashboard_20260413.html' class='date-button'>13/04/2026</a>
-    <a href='dashboard_20260412.html' class='date-button'>12/04/2026</a>
-    <a href='dashboard_20260411.html' class='date-button'>11/04/2026</a>
-    <a href='dashboard_20260410.html' class='date-button'>10/04/2026</a>
-    <a href='dashboard_20260409.html' class='date-button'>09/04/2026</a>
-  </div>
-</div>
-</body>
-</html>
+<script>
+var users={'admin':'clinic123','user':'demo'};
+function login(){
+  var u=document.getElementById('u').value;
+  var p=document.getElementById('p').value;
+  var e=document.getElementById('e');
+  if(users[u]!=null&&users[u]==p){
+    sessionStorage.setItem('auth','1');
+    window.location.href='main.html';
+    return false;
+  }
+  e.innerHTML='Invalid credentials';
+  return false;
+}
+</script>
+</body></html>
