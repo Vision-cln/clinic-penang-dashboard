@@ -15,7 +15,10 @@ button:hover{background:#1976D2}
 <h1>Clinic Dashboard</h1>
 <form onsubmit='return login()'>
 <input type='text' id='u' placeholder='Username' required>
-<input type='password' id='p' placeholder='Password' required>
+<div style='position:relative;width:100%'>
+<input type='password' id='p' placeholder='Password' required style='width:100%;padding-right:40px'>
+<span id='eye' onclick='togglePass()' style='position:absolute;right:10px;top:50%;transform:translateY(-50%);cursor:pointer;user-select:none'>???</span>
+</div>
 <button type='submit'>Sign In</button>
 </form>
 <div id='e' class='err'></div>
@@ -26,6 +29,7 @@ var x=new XMLHttpRequest();
 x.open('GET','users.json',false);
 x.send();
 if(x.status==200){try{users=JSON.parse(x.responseText);}catch(e){}}
+function togglePass(){var p=document.getElementById('p');var e=document.getElementById('eye');if(p.type=='password'){p.type='text';e.textContent='??';}else{p.type='password';e.textContent='???';}}
 function login(){
   var u=document.getElementById('u').value.toLowerCase();
   var p=document.getElementById('p').value;
