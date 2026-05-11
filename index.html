@@ -27,7 +27,7 @@ x.open('GET','users.json',false);
 x.send();
 if(x.status==200){try{users=JSON.parse(x.responseText);}catch(e){}}
 function login(){
-  var u=document.getElementById('u').value;
+  var u=document.getElementById('u').value.toLowerCase();
   var p=document.getElementById('p').value;
   var e=document.getElementById('e');
   if(users[u]!=null&&users[u]==p){
