@@ -32,12 +32,15 @@ body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 0; backgr
 </style>
 </head>
 <body>
+<script>
+var _a=sessionStorage.getItem('auth');if(_a==null||_a==''){window.location.href='index.html';}
+</script>
 <div class='header'>
   <div class='header-top'>
-    <a href='index.html' class='back-link'>? Back to Main</a>
-    <span class='gen-info'>Generated: 11/05/2026 10:18:14</span>
+    <a href='main.html' class='back-link'>&lt; Back to Main</a>
+    <span class='gen-info'>Generated: 11/05/2026 12:14:26</span>
   </div>
-  <h1>?? Clinic Dashboard</h1>
+  <h1>Clinic Dashboard</h1>
   <div class='date-display'>11/05/2026</div>
 </div>
 <div class='content'>
@@ -65,7 +68,7 @@ body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 0; backgr
 </table>
 </div>
 <div class='footer'>
-  <p>Auto-refresh every 5 minutes • <a href='index.html'>Back to Main Dashboard</a></p>
+  <p>Auto-refresh every 5 minutes | <a href='main.html'>Back to Main Dashboard</a> | <a href='index.html' onclick='sessionStorage.removeItem("auth")'>Logout</a></p>
 </div>
 </body>
 </html>
