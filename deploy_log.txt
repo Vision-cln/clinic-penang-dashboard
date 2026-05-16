@@ -2264,3 +2264,76 @@
 16/05/2026 16:56:57 - ? Deployed to GitHub successfully
 16/05/2026 16:56:57 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
 16/05/2026 16:56:57 - Step 4: Uploading log file...
+16/05/2026 16:57:00 - ? Log file uploaded to GitHub
+16/05/2026 16:57:00 - === PROCESS COMPLETED SUCCESSFULLY ===
+16/05/2026 17:00:01 - === AUTO DASHBOARD GENERATION STARTED ===
+16/05/2026 17:00:01 - Timestamp: 16/05/2026 17:00:01
+16/05/2026 17:00:01 - Step 1: Generating last 3 days of dashboards...
+16/05/2026 17:00:01 - Regenerating last 3 days of dashboards...
+16/05/2026 17:00:01 - Generated: dashboard_20260514.html
+16/05/2026 17:00:01 - Generated: dashboard_20260515.html
+16/05/2026 17:00:01 - Generated: dashboard_20260516.html
+16/05/2026 17:00:01 - ? Regenerated 3 days of dashboards
+16/05/2026 17:00:01 - ? Dashboards generated successfully (includes yesterday for data updates)
+16/05/2026 17:00:01 - Step 1b: Regenerating main.html with date list...
+16/05/2026 17:00:01 - GenerateMainIndex: Searching for files in: D:\WINSOFT\CLINIC_VISTA_STOCK_EYE\API_DATA\dashboard_*.html
+16/05/2026 17:00:01 - GenerateMainIndex: Found 38 files
+16/05/2026 17:00:01 - Generated main.html with 38 dates
+16/05/2026 17:00:01 - ? main.html regenerated with latest dates (DESCENDING order)
+16/05/2026 17:00:01 - Step 1c: Generating login page as index.html...
+16/05/2026 17:00:01 - Generated index.html (login page)
+16/05/2026 17:00:01 - ? Login page generated as index.html
+16/05/2026 17:00:01 - Step 1d: Exporting users to JSON...
+16/05/2026 17:00:01 - Exported 2 users to users.json
+16/05/2026 17:00:01 - Generated users.json
+16/05/2026 17:00:01 - ? users.json exported
+16/05/2026 17:00:01 - Step 2: Cleaning up old dashboard files...
+16/05/2026 17:00:01 - ? Cleaned up 0 old files
+16/05/2026 17:00:01 - Step 3: Deploying to GitHub...
+16/05/2026 17:00:01 - Found 41 files to upload
+16/05/2026 17:00:03 - Uploaded: dashboard_20260409.html
+16/05/2026 17:00:04 - Uploaded: dashboard_20260410.html
+16/05/2026 17:00:06 - Uploaded: dashboard_20260411.html
+16/05/2026 17:00:07 - Uploaded: dashboard_20260412.html
+16/05/2026 17:00:08 - Uploaded: dashboard_20260413.html
+16/05/2026 17:00:09 - Uploaded: dashboard_20260414.html
+16/05/2026 17:00:11 - Uploaded: dashboard_20260415.html
+16/05/2026 17:00:12 - Uploaded: dashboard_20260416.html
+16/05/2026 17:00:13 - Uploaded: dashboard_20260417.html
+16/05/2026 17:00:15 - Uploaded: dashboard_20260418.html
+16/05/2026 17:00:16 - Uploaded: dashboard_20260419.html
+16/05/2026 17:00:17 - Uploaded: dashboard_20260420.html
+16/05/2026 17:00:19 - Uploaded: dashboard_20260421.html
+16/05/2026 17:00:20 - Uploaded: dashboard_20260422.html
+16/05/2026 17:00:21 - Uploaded: dashboard_20260423.html
+16/05/2026 17:00:22 - Uploaded: dashboard_20260424.html
+16/05/2026 17:00:23 - Uploaded: dashboard_20260425.html
+16/05/2026 17:00:25 - Uploaded: dashboard_20260426.html
+16/05/2026 17:00:26 - Uploaded: dashboard_20260427.html
+16/05/2026 17:00:27 - Uploaded: dashboard_20260428.html
+16/05/2026 17:00:28 - Uploaded: dashboard_20260429.html
+16/05/2026 17:00:29 - Uploaded: dashboard_20260430.html
+16/05/2026 17:00:30 - Uploaded: dashboard_20260501.html
+16/05/2026 17:00:32 - Uploaded: dashboard_20260502.html
+16/05/2026 17:00:33 - Uploaded: dashboard_20260503.html
+16/05/2026 17:00:34 - Uploaded: dashboard_20260504.html
+16/05/2026 17:00:35 - Uploaded: dashboard_20260505.html
+16/05/2026 17:00:36 - Uploaded: dashboard_20260506.html
+16/05/2026 17:00:38 - Uploaded: dashboard_20260507.html
+16/05/2026 17:00:39 - Uploaded: dashboard_20260508.html
+16/05/2026 17:00:40 - Uploaded: dashboard_20260509.html
+16/05/2026 17:00:41 - Uploaded: dashboard_20260510.html
+16/05/2026 17:00:42 - Uploaded: dashboard_20260511.html
+16/05/2026 17:00:43 - Uploaded: dashboard_20260512.html
+16/05/2026 17:00:44 - Uploaded: dashboard_20260513.html
+16/05/2026 17:00:46 - Uploaded: dashboard_20260514.html
+16/05/2026 17:00:47 - Uploaded: dashboard_20260515.html
+16/05/2026 17:00:48 - Uploaded: dashboard_20260516.html
+16/05/2026 17:00:49 - Uploaded: index.html
+16/05/2026 17:00:51 - Uploaded: login.html
+16/05/2026 17:00:52 - Uploaded: main.html
+16/05/2026 17:00:53 - Uploaded: users.json
+16/05/2026 17:00:53 - Upload complete: 42/42 files
+16/05/2026 17:00:53 - ? Deployed to GitHub successfully
+16/05/2026 17:00:53 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
+16/05/2026 17:00:53 - Step 4: Uploading log file...
