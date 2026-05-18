@@ -71,3 +71,69 @@
 18/05/2026 22:58:56 - ? Deployed to GitHub successfully
 18/05/2026 22:58:56 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
 18/05/2026 22:58:56 - Step 4: Uploading log file...
+18/05/2026 22:58:59 - ? Log file uploaded to GitHub
+18/05/2026 22:58:59 - === PROCESS COMPLETED SUCCESSFULLY ===
+18/05/2026 23:06:52 - === AUTO DASHBOARD GENERATION STARTED ===
+18/05/2026 23:06:52 - Timestamp: 18/05/2026 23:06:52
+18/05/2026 23:06:52 - Step 1: Generating last 3 days of dashboards...
+18/05/2026 23:06:52 - Regenerating last 3 days of dashboards...
+18/05/2026 23:06:52 - Generated: dashboard_20260516.html
+18/05/2026 23:06:52 - Generated: dashboard_20260517.html
+18/05/2026 23:06:52 - Generated: dashboard_20260518.html
+18/05/2026 23:06:52 - ? Regenerated 3 days of dashboards
+18/05/2026 23:06:52 - ? Dashboards generated successfully (includes yesterday for data updates)
+18/05/2026 23:06:52 - Step 1b: Regenerating main.html with date list...
+18/05/2026 23:06:52 - GenerateMainIndex: Searching for files in: D:\WINSOFT\CLINIC_VISTA_STOCK_EYE\API_DATA\dashboard_*.html
+18/05/2026 23:06:52 - GenerateMainIndex: Found 31 files
+18/05/2026 23:06:52 - Generated main.html with 31 dates
+18/05/2026 23:06:52 - ? main.html regenerated with latest dates (DESCENDING order)
+18/05/2026 23:06:52 - Step 1c: Generating login page as index.html...
+18/05/2026 23:06:52 - Generated index.html (login page)
+18/05/2026 23:06:52 - ? Login page generated as index.html
+18/05/2026 23:06:52 - Step 1d: Exporting users to JSON...
+18/05/2026 23:06:52 - Exported 2 users to users.json
+18/05/2026 23:06:52 - Generated users.json
+18/05/2026 23:06:52 - ? users.json exported
+18/05/2026 23:06:52 - Step 2: Cleaning up old dashboard files...
+18/05/2026 23:06:52 - ? Cleaned up 0 old files
+18/05/2026 23:06:52 - Step 3: Deploying to GitHub...
+18/05/2026 23:06:52 - Found 34 files to upload
+18/05/2026 23:06:53 - Uploaded: dashboard_20260418.html
+18/05/2026 23:06:55 - Uploaded: dashboard_20260419.html
+18/05/2026 23:06:56 - Uploaded: dashboard_20260420.html
+18/05/2026 23:06:57 - Uploaded: dashboard_20260421.html
+18/05/2026 23:06:59 - Uploaded: dashboard_20260422.html
+18/05/2026 23:07:01 - Uploaded: dashboard_20260423.html
+18/05/2026 23:07:02 - Uploaded: dashboard_20260424.html
+18/05/2026 23:07:03 - Uploaded: dashboard_20260425.html
+18/05/2026 23:07:05 - Uploaded: dashboard_20260426.html
+18/05/2026 23:07:06 - Uploaded: dashboard_20260427.html
+18/05/2026 23:07:08 - Uploaded: dashboard_20260428.html
+18/05/2026 23:07:09 - Uploaded: dashboard_20260429.html
+18/05/2026 23:07:11 - Uploaded: dashboard_20260430.html
+18/05/2026 23:07:13 - Uploaded: dashboard_20260501.html
+18/05/2026 23:07:15 - Uploaded: dashboard_20260502.html
+18/05/2026 23:07:16 - Uploaded: dashboard_20260503.html
+18/05/2026 23:07:17 - Uploaded: dashboard_20260504.html
+18/05/2026 23:07:19 - Uploaded: dashboard_20260505.html
+18/05/2026 23:07:21 - Uploaded: dashboard_20260506.html
+18/05/2026 23:07:22 - Uploaded: dashboard_20260507.html
+18/05/2026 23:07:24 - Uploaded: dashboard_20260508.html
+18/05/2026 23:07:25 - Uploaded: dashboard_20260509.html
+18/05/2026 23:07:26 - Uploaded: dashboard_20260510.html
+18/05/2026 23:07:28 - Uploaded: dashboard_20260511.html
+18/05/2026 23:07:29 - Uploaded: dashboard_20260512.html
+18/05/2026 23:07:30 - Uploaded: dashboard_20260513.html
+18/05/2026 23:07:32 - Uploaded: dashboard_20260514.html
+18/05/2026 23:07:33 - Uploaded: dashboard_20260515.html
+18/05/2026 23:07:35 - Uploaded: dashboard_20260516.html
+18/05/2026 23:07:36 - Uploaded: dashboard_20260517.html
+18/05/2026 23:07:37 - Uploaded: dashboard_20260518.html
+18/05/2026 23:07:39 - Uploaded: index.html
+18/05/2026 23:07:40 - Uploaded: login.html
+18/05/2026 23:07:42 - Uploaded: main.html
+18/05/2026 23:07:44 - Uploaded: users.json
+18/05/2026 23:07:44 - Upload complete: 35/35 files
+18/05/2026 23:07:44 - ? Deployed to GitHub successfully
+18/05/2026 23:07:44 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
+18/05/2026 23:07:44 - Step 4: Uploading log file...
