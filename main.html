@@ -29,9 +29,18 @@ body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f
 var _a=sessionStorage.getItem('auth');if(_a==null||_a==''){window.location.href='index.html';}
 </script>
 <div class='header'>
-  <h1>Clinic Management Dashboard</h1>
-  <div class='quick-access'>Quick Access:</div>
+  <div style='display:flex;justify-content:space-between;align-items:center;padding:20px 30px'>
+    <div>
+      <h1 style='margin:0;font-size:28px'>Clinic Management Dashboard</h1>
+      <div class='quick-access'>Quick Access:</div>
+    </div>
+    <div style='text-align:right'>
+      <div style='font-size:14px;opacity:0.9'>Logged in as:</div>
+      <div id='user-display' style='font-weight:bold;font-size:16px'></div>
+    </div>
+  </div>
 </div>
+<script>document.getElementById('user-display').textContent=sessionStorage.getItem('username')||'Unknown';</script>
 <div class='stats-container'>
   <div class='stats-row'>
     <div class='stat-card'>
@@ -54,7 +63,7 @@ var _a=sessionStorage.getItem('auth');if(_a==null||_a==''){window.location.href=
       <div class='activity-detail'>
         Appointments: 0<br>
         Pending: 0<br>
-        Last Update: 17/05/2026 23:56:39
+        Last Update: 18/05/2026 08:51:42
       </div>
     </div>
   </div>
@@ -62,6 +71,7 @@ var _a=sessionStorage.getItem('auth');if(_a==null||_a==''){window.location.href=
 <div class='date-section'>
   <h2>Select Date to View Detailed Dashboard</h2>
   <div class='date-buttons'>
+    <a href='dashboard_20260518.html' class='date-button'>18/05/2026</a>
     <a href='dashboard_20260517.html' class='date-button'>17/05/2026</a>
     <a href='dashboard_20260516.html' class='date-button'>16/05/2026</a>
     <a href='dashboard_20260515.html' class='date-button'>15/05/2026</a>
