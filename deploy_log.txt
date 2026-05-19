@@ -137,3 +137,70 @@
 18/05/2026 23:07:44 - ? Deployed to GitHub successfully
 18/05/2026 23:07:44 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
 18/05/2026 23:07:44 - Step 4: Uploading log file...
+18/05/2026 23:07:46 - ? Log file uploaded to GitHub
+18/05/2026 23:07:46 - === PROCESS COMPLETED SUCCESSFULLY ===
+19/05/2026 14:57:58 - === AUTO DASHBOARD GENERATION STARTED ===
+19/05/2026 14:57:58 - Timestamp: 19/05/2026 14:57:58
+19/05/2026 14:57:58 - Step 1: Generating last 3 days of dashboards...
+19/05/2026 14:57:58 - Regenerating last 3 days of dashboards...
+19/05/2026 14:57:58 - Generated: dashboard_20260517.html
+19/05/2026 14:57:58 - Generated: dashboard_20260518.html
+19/05/2026 14:57:58 - Generated: dashboard_20260519.html
+19/05/2026 14:57:58 - ? Regenerated 3 days of dashboards
+19/05/2026 14:57:58 - ? Dashboards generated successfully (includes yesterday for data updates)
+19/05/2026 14:57:58 - Step 1b: Regenerating main.html with date list...
+19/05/2026 14:57:58 - GenerateMainIndex: Searching for files in: D:\WINSOFT\CLINIC_VISTA_STOCK_EYE\API_DATA\dashboard_*.html
+19/05/2026 14:57:58 - GenerateMainIndex: Found 32 files
+19/05/2026 14:57:58 - Generated main.html with 32 dates
+19/05/2026 14:57:58 - ? main.html regenerated with latest dates (DESCENDING order)
+19/05/2026 14:57:58 - Step 1c: Generating login page as index.html...
+19/05/2026 14:57:58 - Generated index.html (login page)
+19/05/2026 14:57:58 - ? Login page generated as index.html
+19/05/2026 14:57:58 - Step 1d: Exporting users to JSON...
+19/05/2026 14:57:58 - Exported 2 users to users.json
+19/05/2026 14:57:58 - Generated users.json
+19/05/2026 14:57:58 - ? users.json exported
+19/05/2026 14:57:58 - Step 2: Cleaning up old dashboard files...
+19/05/2026 14:57:58 - Deleted old dashboard: DASHBOARD_20260418.HTML
+19/05/2026 14:57:58 - ? Cleaned up 1 old files
+19/05/2026 14:57:58 - Step 3: Deploying to GitHub...
+19/05/2026 14:57:58 - Found 34 files to upload
+19/05/2026 14:57:59 - Uploaded: dashboard_20260419.html
+19/05/2026 14:58:01 - Uploaded: dashboard_20260420.html
+19/05/2026 14:58:02 - Uploaded: dashboard_20260421.html
+19/05/2026 14:58:03 - Uploaded: dashboard_20260422.html
+19/05/2026 14:58:04 - Uploaded: dashboard_20260423.html
+19/05/2026 14:58:06 - Uploaded: dashboard_20260424.html
+19/05/2026 14:58:07 - Uploaded: dashboard_20260425.html
+19/05/2026 14:58:08 - Uploaded: dashboard_20260426.html
+19/05/2026 14:58:09 - Uploaded: dashboard_20260427.html
+19/05/2026 14:58:11 - Uploaded: dashboard_20260428.html
+19/05/2026 14:58:12 - Uploaded: dashboard_20260429.html
+19/05/2026 14:58:14 - Uploaded: dashboard_20260430.html
+19/05/2026 14:58:15 - Uploaded: dashboard_20260501.html
+19/05/2026 14:58:16 - Uploaded: dashboard_20260502.html
+19/05/2026 14:58:18 - Uploaded: dashboard_20260503.html
+19/05/2026 14:58:20 - Uploaded: dashboard_20260504.html
+19/05/2026 14:58:21 - Uploaded: dashboard_20260505.html
+19/05/2026 14:58:22 - Uploaded: dashboard_20260506.html
+19/05/2026 14:58:23 - Uploaded: dashboard_20260507.html
+19/05/2026 14:58:25 - Uploaded: dashboard_20260508.html
+19/05/2026 14:58:26 - Uploaded: dashboard_20260509.html
+19/05/2026 14:58:28 - Uploaded: dashboard_20260510.html
+19/05/2026 14:58:31 - Uploaded: dashboard_20260511.html
+19/05/2026 14:58:32 - Uploaded: dashboard_20260512.html
+19/05/2026 14:58:33 - Uploaded: dashboard_20260513.html
+19/05/2026 14:58:35 - Uploaded: dashboard_20260514.html
+19/05/2026 14:58:36 - Uploaded: dashboard_20260515.html
+19/05/2026 14:58:37 - Uploaded: dashboard_20260516.html
+19/05/2026 14:58:38 - Uploaded: dashboard_20260517.html
+19/05/2026 14:58:40 - Uploaded: dashboard_20260518.html
+19/05/2026 14:58:41 - Uploaded: dashboard_20260519.html
+19/05/2026 14:58:42 - Uploaded: index.html
+19/05/2026 14:58:44 - Uploaded: login.html
+19/05/2026 14:58:45 - Uploaded: main.html
+19/05/2026 14:58:47 - Uploaded: users.json
+19/05/2026 14:58:47 - Upload complete: 35/35 files
+19/05/2026 14:58:47 - ? Deployed to GitHub successfully
+19/05/2026 14:58:47 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
+19/05/2026 14:58:47 - Step 4: Uploading log file...
